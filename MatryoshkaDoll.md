@@ -25,7 +25,7 @@ Once again we have found a directory hidden within the file. Inside it is anothe
 
 ![unzipping...](https://github.com/RBiebrich/PicoCTF/blob/main/assets/unzipping....png)
 
-After a bit more **unzipping** it we find a file called **flag.txt**. That sounds promising! Let's **cat** the file to see what's inisde.
+After a bit more **unzipping**, we find a file called **flag.txt**. That sounds promising! Let's **cat** the file to see what's inisde.
 
 ![flag](https://github.com/RBiebrich/PicoCTF/blob/main/assets/flag.png)
 
