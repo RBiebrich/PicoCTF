@@ -5,7 +5,7 @@ Forensics, 30 points
 
 When we **wget** the linked file, we can see it is called **dolls.jpg**. If opened you will see this image:
 
-![this]()
+![this](https://github.com/RBiebrich/PicoCTF/blob/main/dolls.jpg?raw=true)
 
 
 For an image file I will first use **exiftool** to see if we can find anything hidden in the file's metadata. While a lot of information comes up, none of it stands out as relevant. Another approach is likely needed.
