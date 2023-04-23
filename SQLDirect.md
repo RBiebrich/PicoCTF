@@ -7,7 +7,11 @@ First, we launch the instance and we are provided with the necessary information
 
 ![schema](https://github.com/RBiebrich/PicoCTF/blob/main/assets/schema.png)
 
-From here we can see that the database contains a table called flags! We can write a query to show us the contents of this table (**SELECT * FROM flags;**).
+From here we can see that the database contains a table called flags! We can write a query to show us the contents of this table:
+
+```SQL
+SELECT * FROM flags;
+```
 
 ![table](https://github.com/RBiebrich/PicoCTF/blob/main/assets/table.png)
 
